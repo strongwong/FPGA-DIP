@@ -1,0 +1,116 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Ricky/Desktop/image_ycbcr
+vimread
+Z0 !s110 1567339306
+!i10b 1
+!s100 H_1[l`CVe;9]]g3<em2nl0
+I`OFn4@O>n^bVLB=bomVNA1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Ricky/Desktop/simplateform/modelsim
+w1567332999
+8C:/Users/Ricky/Desktop/simplateform/modelsim/imread.v
+FC:/Users/Ricky/Desktop/simplateform/modelsim/imread.v
+L0 3
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1567339306.000000
+!s107 C:/Users/Ricky/Desktop/simplateform/modelsim/imread.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ricky/Desktop/simplateform/modelsim/imread.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vimwrite
+R0
+!i10b 1
+!s100 ;f<lSE;O9zb:LNSja9ej]3
+IIR5<n8UD5K]:m1E>l=K9d2
+R1
+R2
+w1542176363
+8C:/Users/Ricky/Desktop/simplateform/modelsim/imwrite.v
+FC:/Users/Ricky/Desktop/simplateform/modelsim/imwrite.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Ricky/Desktop/simplateform/modelsim/imwrite.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ricky/Desktop/simplateform/modelsim/imwrite.v|
+!i113 1
+R5
+R6
+vrgb_to_ycbcr
+R0
+!i10b 1
+!s100 TFW;eUGfP:XgT8:VB<RZA0
+IkzjE7h]YUHc;62<F`53G52
+R1
+R2
+w1520501927
+8C:/Users/Ricky/Desktop/simplateform/modelsim/rgb_to_ycbcr.v
+FC:/Users/Ricky/Desktop/simplateform/modelsim/rgb_to_ycbcr.v
+L0 14
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Ricky/Desktop/simplateform/modelsim/rgb_to_ycbcr.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ricky/Desktop/simplateform/modelsim/rgb_to_ycbcr.v|
+!i113 1
+R5
+R6
+vtb_image
+R0
+!i10b 1
+!s100 U`zA?86f^TO8XgNDVW>PM3
+Ie?jzkPm8LLXc[65>j:>8h2
+R1
+R2
+w1542177366
+8C:/Users/Ricky/Desktop/simplateform/modelsim/tb_image.v
+FC:/Users/Ricky/Desktop/simplateform/modelsim/tb_image.v
+L0 23
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Ricky/Desktop/simplateform/modelsim/tb_image.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ricky/Desktop/simplateform/modelsim/tb_image.v|
+!i113 1
+R5
+R6
+vvga_ctl
+!s110 1567339307
+!i10b 1
+!s100 JLP0FBzg@e_O2j29L9LET0
+I]bVLo2Z;Eko><4BYN>g5I1
+R1
+R2
+w1542170939
+8C:/Users/Ricky/Desktop/simplateform/modelsim/vga_ctl.v
+FC:/Users/Ricky/Desktop/simplateform/modelsim/vga_ctl.v
+Fvga_parameter.vh
+L0 26
+R3
+r1
+!s85 0
+31
+!s108 1567339307.000000
+!s107 vga_parameter.vh|C:/Users/Ricky/Desktop/simplateform/modelsim/vga_ctl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ricky/Desktop/simplateform/modelsim/vga_ctl.v|
+!i113 1
+R5
+R6
